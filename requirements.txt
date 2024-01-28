@@ -1,7 +1,8 @@
 numpy
 scipy
 nibabel
-sklearn
+scikit-learn
 matplotlib
 skbold
-git+git://github.com/janfreyberg/niwidgets/
+#git+https://github.com/janfreyberg/niwidgets/
+git+https://github.com/nipy/niwidgets
